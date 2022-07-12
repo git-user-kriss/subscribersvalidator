@@ -7,7 +7,7 @@
     "zytzagoo/smtp-validate-email": "*"
   },
   "type": "magento2-module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -26,5 +26,7 @@
     "psr-4": {
       "Scandiweb\\SubscribersValidator\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
