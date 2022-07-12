@@ -1,30 +1,30 @@
 {
-	"name": "git-user-kriss/subscribersvalidator",
-	"description": "Module to validate newsletter subscribers",
-	"require": {
-		"magento/framework": "103.0.*",
-		"magento/module-newsletter": "*",
-		"zytzagoo/smtp-validate-email": "*"
-	},
-	"type":"magento2-module",
-	"version": "1.0.2",
-	"license": [
-		"OSL-3.0",
-		"AFL-3.0"
-	],
-	"authors": [
-		{
-			"name": "Krists",
-			"email": "krists.miculis@scandiweb.com",
-			"role": "Developer"
-		}
-	],
-	"autoload": {
-		"files": [
-			"registration.php"
-		],
-		"psr-4": {
-			"Scandiweb\\SubscribersValidator\\": ""
-		}
-	}
+  "name": "git-user-kriss/subscribersvalidator",
+  "description": "Module to validate newsletter subscribers",
+  "require": {
+    "magento/framework": "103.0.*",
+    "magento/module-newsletter": "*",
+    "zytzagoo/smtp-validate-email": "*"
+  },
+  "type": "magento2-module",
+  "version": "1.0.2",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Krists",
+      "email": "krists.miculis@scandiweb.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Scandiweb\\SubscribersValidator\\": ""
+    }
+  }
 }
