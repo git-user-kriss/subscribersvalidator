@@ -3,5 +3,5 @@
 **Setup**
 
 ```php
-composer require git-user-kriss/scandiweb-subscribersvalidator
+composer require git-user-kriss/subscribersvalidator
 ```
