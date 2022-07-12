@@ -7,7 +7,7 @@
 		"zytzagoo/smtp-validate-email": "*"
 	},
 	"type":"magento2-module",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": [
 		"OSL-3.0",
 		"AFL-3.0"
@@ -15,10 +15,10 @@
 	"authors": [
 		{
 			"name": "Krists",
-			"email": "krists.miculis@scandiweb.com"
+			"email": "krists.miculis@scandiweb.com",
+			"role": "Developer"
 		}
 	],
-	"minimum-stability": "stable",
 	"autoload": {
 		"files": [
 			"registration.php"
