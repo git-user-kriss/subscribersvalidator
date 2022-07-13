@@ -9,6 +9,7 @@ Module functionality:
 
 ```php
 composer require git-user-kriss/subscribersvalidator
+bin/magento setup:upgrade
 ```
 
 **How to use functionality**
