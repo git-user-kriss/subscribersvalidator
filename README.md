@@ -19,4 +19,4 @@ run command
 bin/magento subscribers:validation
 ```
 
-which will create a new log file at '/var/log/suspicious-emails.log' and store suspicious log files
+which will create a new log file at '/var/log/suspicious-emails.log' and store suspicious e-mail address
