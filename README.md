@@ -10,3 +10,13 @@ Module functionality:
 ```php
 composer require git-user-kriss/subscribersvalidator
 ```
+
+**How to use functionality**
+
+run command
+
+```php
+bin/magento subscribers:validation
+```
+
+which will create a new log file at '/var/log/suspicious-emails.log' and store suspicious log files
